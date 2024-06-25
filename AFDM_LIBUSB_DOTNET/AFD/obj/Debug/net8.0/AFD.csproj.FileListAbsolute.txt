@@ -1,0 +1,17 @@
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/bin/Debug/net8.0/AFD
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/bin/Debug/net8.0/AFD.deps.json
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/bin/Debug/net8.0/AFD.runtimeconfig.json
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/bin/Debug/net8.0/AFD.dll
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/bin/Debug/net8.0/AFD.pdb
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/bin/Debug/net8.0/LibUsbDotNet.LibUsbDotNet.dll
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/obj/Debug/net8.0/AFD.csproj.AssemblyReference.cache
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/obj/Debug/net8.0/AFD.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/obj/Debug/net8.0/AFD.AssemblyInfoInputs.cache
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/obj/Debug/net8.0/AFD.AssemblyInfo.cs
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/obj/Debug/net8.0/AFD.csproj.CoreCompileInputs.cache
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/obj/Debug/net8.0/AFD.csproj.Up2Date
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/obj/Debug/net8.0/AFD.dll
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/obj/Debug/net8.0/refint/AFD.dll
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/obj/Debug/net8.0/AFD.pdb
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/obj/Debug/net8.0/AFD.genruntimeconfig.cache
+/workspaces/AllianceForwardingDevice_Master/AFDM_LIBUSB_DOTNET/AFD/obj/Debug/net8.0/ref/AFD.dll
